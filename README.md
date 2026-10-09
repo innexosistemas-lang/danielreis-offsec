@@ -51,15 +51,15 @@ documentado no padrão profissional.
 ### 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielreis-offsec&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielreis-offsec&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=innexosistemas-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innexosistemas-lang&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/danielreis-offsec">
-    <img src="https://img.shields.io/badge/GitHub-danielreis--offsec-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <a href="https://github.com/innexosistemas-lang">
+    <img src="https://img.shields.io/badge/GitHub-innexosistemas--lang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <!-- Adicione seu LinkedIn/contato abaixo quando quiser:
   <a href="https://www.linkedin.com/in/SEU-PERFIL/">

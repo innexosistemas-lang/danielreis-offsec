@@ -15,7 +15,7 @@
 - 🔬 Construindo experiência prática em um **laboratório próprio** (VPS com alvos em Docker)
 - 📚 Estudando **AppSec**, escalação de privilégios no Linux e o **OWASP Top 10**
 - ✍️ Documento cada projeto como um **entregável real de pentest** — metodologia, evidências e remediação
-- 🎯 Objetivo: atuar com **Offensive Security / Red Team**
+- 🎯 Objetivo: atuar com **Blue Team / Red Team**
 
 ---
 

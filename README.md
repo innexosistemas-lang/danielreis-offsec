@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/daniel-stefan-reis/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=3ddc97" alt="LinkedIn"></a>
-  <a href="https://github.com/innexosistemas-lang/Offsec-labs"><img src="https://img.shields.io/badge/Portfolio-Offsec--labs-0d1117?style=flat-square&logo=github&logoColor=3ddc97" alt="Portfolio"></a>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20internship-0d1117?style=flat-square&labelColor=0d1117&color=1f2a24" alt="Status">
+  <a href="https://www.linkedin.com/in/daniel-stefan-reis/"><img src="https://img.shields.io/badge/LinkedIn-daniel--stefan--reis-0d1117?style=flat-square&labelColor=161b22" alt="LinkedIn"></a>
+  <a href="https://github.com/innexosistemas-lang/Offsec-labs"><img src="https://img.shields.io/badge/Portfolio-Offsec--labs-0d1117?style=flat-square&labelColor=161b22" alt="Portfolio"></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20internship-1f6f4a?style=flat-square&labelColor=161b22" alt="Status">
 </p>
 
 ```console
 daniel@redteam-lab:~$ cat profile.txt
-  role      Estudante de Cibersegurança — PUC-Campinas (Escola Politécnica)
-  focus     Penetration Testing · Web AppSec · Linux Privilege Escalation
-  method    Recon → Enumeração → Exploração → Pós-exploração → Relatório
-  lab       KVM/libvirt isolado (Kali · Metasploitable2 · Windows 11) + VPS com alvos em Docker
-  goal      Primeira posição em segurança ofensiva / defensiva (estágio ou júnior)
+  role    Estudante de Cibersegurança · PUC-Campinas
+  focus   Pentest · Web AppSec · Linux PrivEsc
+  method  Recon → Enum → Exploit → Post-Exploit → Report
+  lab     KVM isolado (Kali · Metasploitable2 · Win11) + VPS Docker
+  goal    Estágio / júnior em segurança ofensiva ou defensiva
 ```
 
 ### `> about`
@@ -65,18 +65,12 @@ Todos os testes são feitos em **ambientes próprios ou expressamente autorizado
 
 ### `> certifications`
 
-| Status | Certificação |
-|---|---|
-| ✔ Concluída | **Segurança em Linux na Era da IA** — IBSEC (2026) |
-| ◐ Em andamento | **Google Cybersecurity Professional Certificate** — Coursera |
-| ○ Próximos passos | **ISC² Certified in Cybersecurity (CC)** → **CompTIA Security+** |
-
-### `> activity`
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=innexosistemas-lang&show_icons=true&hide_border=false&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3ddc97&border_color=21262d&hide=contribs" alt="GitHub stats" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innexosistemas-lang&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=21262d" alt="Top languages" height="160">
-</p>
+```text
+[x] Segurança em Linux na Era da IA ........... IBSEC · 2026
+[~] Google Cybersecurity Professional Cert .... Coursera · em andamento
+[ ] ISC² Certified in Cybersecurity (CC) ...... próximo passo
+[ ] CompTIA Security+ ......................... próximo passo
+```
 
 ---
 

@@ -68,8 +68,7 @@ Todos os testes são feitos em **ambientes próprios ou expressamente autorizado
 ```text
 [x] Segurança em Linux na Era da IA ........... IBSEC · 2026
 [~] Google Cybersecurity Professional Cert .... Coursera · em andamento
-[ ] ISC² Certified in Cybersecurity (CC) ...... próximo passo
-[ ] CompTIA Security+ ......................... próximo passo
+
 ```
 
 ---

@@ -1,71 +1,85 @@
-<h1 align="center">Olá, eu sou o Daniel Reis</h1>
-<h3 align="center">Segurança Ofensiva · Penetration Testing · Red Team</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-Penetration%20Testing-red?style=for-the-badge" alt="Pentest">
-  <img src="https://img.shields.io/badge/-Red%20Team-black?style=for-the-badge" alt="Red Team">
-  <img src="https://img.shields.io/badge/-Web%20AppSec-blueviolet?style=for-the-badge" alt="Web AppSec">
+  <img src="./assets/banner.svg" alt="Daniel Reis — Offensive Security" width="100%">
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/daniel-stefan-reis/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=3ddc97" alt="LinkedIn"></a>
+  <a href="https://github.com/innexosistemas-lang/Offsec-labs"><img src="https://img.shields.io/badge/Portfolio-Offsec--labs-0d1117?style=flat-square&logo=github&logoColor=3ddc97" alt="Portfolio"></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20internship-0d1117?style=flat-square&labelColor=0d1117&color=1f2a24" alt="Status">
+</p>
 
-### 🎯 Sobre mim
+```console
+daniel@redteam-lab:~$ cat profile.txt
+  role      Estudante de Cibersegurança — PUC-Campinas (Escola Politécnica)
+  focus     Penetration Testing · Web AppSec · Linux Privilege Escalation
+  method    Recon → Enumeração → Exploração → Pós-exploração → Relatório
+  lab       KVM/libvirt isolado (Kali · Metasploitable2 · Windows 11) + VPS com alvos em Docker
+  goal      Primeira posição em segurança ofensiva / defensiva (estágio ou júnior)
+```
 
-- 🛡️ Estudante de segurança cibernética focado em **Teste de Intrusão** e **Red Team**
-- 🔬 Construindo experiência prática em um **laboratório próprio** (VPS com alvos em Docker)
-- 📚 Estudando **AppSec**, escalação de privilégios no Linux e o **OWASP Top 10**
-- ✍️ Documento cada projeto como um **entregável real de pentest** — metodologia, evidências e remediação
-- 🎯 Objetivo: atuar com **Blue Team / Red Team**
+### `> about`
 
----
+Trabalho cada projeto como um **engajamento real de pentest**: escopo definido, metodologia, evidências reproduzíveis e recomendações de remediação. O objetivo não é só explorar, mas entregar um relatório que um time técnico consiga usar para corrigir.
 
-### 🛠️ Ferramentas & Tecnologias
+Todos os testes são feitos em **ambientes próprios ou expressamente autorizados**.
+
+### `> focus areas`
+
+| Área | O que pratico |
+|---|---|
+| **Reconhecimento** | OSINT, enumeração de serviços, mapeamento de superfície de ataque |
+| **Web AppSec** | OWASP Top 10, testes manuais com Burp Suite, falhas de autenticação e injeção |
+| **Exploração de infraestrutura** | Serviços legados, cadeias de exploração com Metasploit, cracking de hashes |
+| **Pós-exploração** | Escalação de privilégios em Linux, persistência e coleta de evidências |
+| **Hardening & Blue Team** | Hardening de VPS, análise de logs e tráfego (tcpdump / Wireshark) |
+| **Reporting** | Relatórios técnicos com severidade, evidências e plano de remediação |
+
+### `> toolkit`
 
 <p>
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white" alt="Kali">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white" alt="OWASP">
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white" alt="Burp">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat&logo=nmap&logoColor=white" alt="Nmap">
-  <img src="https://img.shields.io/badge/Metasploit-2A2A2A?style=flat&logo=metasploit&logoColor=white" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Kali_Linux-0d1117?style=flat-square&logo=kalilinux&logoColor=3ddc97" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=3ddc97" alt="Linux">
+  <img src="https://img.shields.io/badge/Nmap-0d1117?style=flat-square&logo=nmap&logoColor=3ddc97" alt="Nmap">
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=flat-square&logo=burpsuite&logoColor=3ddc97" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=flat-square&logo=metasploit&logoColor=3ddc97" alt="Metasploit">
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=flat-square&logo=wireshark&logoColor=3ddc97" alt="Wireshark">
+  <img src="https://img.shields.io/badge/John_the_Ripper-0d1117?style=flat-square&logo=gnuprivacyguard&logoColor=3ddc97" alt="John the Ripper">
+  <img src="https://img.shields.io/badge/OWASP-0d1117?style=flat-square&logo=owasp&logoColor=3ddc97" alt="OWASP">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3ddc97" alt="Python">
+  <img src="https://img.shields.io/badge/Bash-0d1117?style=flat-square&logo=gnubash&logoColor=3ddc97" alt="Bash">
+  <img src="https://img.shields.io/badge/SQL-0d1117?style=flat-square&logo=postgresql&logoColor=3ddc97" alt="SQL">
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=3ddc97" alt="Docker">
+  <img src="https://img.shields.io/badge/KVM_/_libvirt-0d1117?style=flat-square&logo=qemu&logoColor=3ddc97" alt="KVM">
+  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=3ddc97" alt="Git">
 </p>
 
----
-
-### 📌 Projeto em destaque
+### `> featured engagement`
 
 <a href="https://github.com/innexosistemas-lang/Offsec-labs">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innexosistemas-lang&repo=Offsec-labs&theme=tokyonight" alt="Offensive Security Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=innexosistemas-lang&repo=Offsec-labs&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3ddc97&border_color=21262d" alt="Offsec-labs">
 </a>
 
-**Portfólio de Segurança Ofensiva** — projetos de pentest cobrindo reconhecimento,
-exploração web, escalação de privilégios, OWASP Top 10 e hardening de VPS, cada um
-documentado no padrão profissional.
+**Offsec-labs** — portfólio de segurança ofensiva: reconhecimento, exploração web, escalação de privilégios, OWASP Top 10 e hardening de VPS, cada projeto documentado no formato de relatório de pentest.
 
----
+### `> certifications`
 
-### 📊 GitHub
+| Status | Certificação |
+|---|---|
+| ✔ Concluída | **Segurança em Linux na Era da IA** — IBSEC (2026) |
+| ◐ Em andamento | **Google Cybersecurity Professional Certificate** — Coursera |
+| ○ Próximos passos | **ISC² Certified in Cybersecurity (CC)** → **CompTIA Security+** |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=innexosistemas-lang&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innexosistemas-lang&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165">
+### `> activity`
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=innexosistemas-lang&show_icons=true&hide_border=false&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=3ddc97&border_color=21262d&hide=contribs" alt="GitHub stats" height="160">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=innexosistemas-lang&layout=compact&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&border_color=21262d" alt="Top languages" height="160">
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://github.com/innexosistemas-lang">
-    <img src="https://img.shields.io/badge/GitHub-innexosistemas--lang-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <!-- Adicione seu LinkedIn/contato abaixo quando quiser:
-  <a href="https://www.linkedin.com/in/SEU-PERFIL/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  -->
+  <sub><code>// conhecimento ofensivo a serviço da defesa</code></sub>
 </p>
-
-<!-- perfil: innexosistemas-lang -->
